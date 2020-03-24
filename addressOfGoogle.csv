@@ -1,0 +1,79 @@
+office,address,phone,lon,lat,region
+Ann Arbor,"2300 Traverwood Dr. Ann Arbor, MI 48105 United States",+1 734-332-6500,-83.7140833,42.3063848,north-america
+Atlanta,"10 10th Street NE Atlanta, GA 30309 United States",+1 404-487-9000,-84.387301,33.781827,north-america
+Austin,"500 W 2nd St Suite 2900 Austin, TX 78701 United States",+1 512-343-5283,-97.749237,30.266035,north-america
+Boulder,"2600 Pearl Street Boulder, CO 80302 United States",+1 303-245-0086,-105.260139,40.021693,north-america
+Cambridge,"355 Main Street Cambridge, MA 02142 United States",+1 617-575-1300,-71.087109,42.362757,north-america
+Chapel Hill,"200 West Franklin Street Chapel Hill, NC 27516 United States",,-79.058488,35.912445,north-america
+Chicago,"320 N. Morgan, Suite 600 Chicago, IL 60607 United States",+1 312-840-4100,-87.6526874,41.8873457,north-america
+Detroit,"52 Henry St. 3rd Floor Detroit, MI 48201 United States",+1 248-593-4003,-83.054494,42.340458,north-america
+Irvine,"19510 Jamboree Road Irvine, CA 92612 United States",+1 949-794-1600,-117.859322,33.658792,north-america
+Kirkland,"777 6th Street South Kirkland, WA United States",+1 425-739-5600,-122.196912,47.669568,north-america
+Kitchener,"51 Breithaupt Street Kitchener, ON N2H 5G5 Canada",+1-519-880-2300,-80.4992423,43.4541137,north-america
+Los Angeles,"340 Main Street Los Angeles, CA 90291 United States",+1 310-310-6000,-118.4766773,33.995939,north-america
+Miami,1450 Brickell Ave Ste 900  Miami FL 33131 United States,+1 305-985-7900,-80.1932144,25.758473,north-america
+Montreal,"1253 McGill College Avenue Montreal, QC H3B 2Y5 Canada",514-670-8700,-73.570365,45.50191,north-america
+Mountain View,"1600 Amphitheatre Parkway Mountain View, CA 94043 United States",,-122.084101,37.421512,north-america
+New York,"111 8th Avenue New York, NY 10011 United States",+1 212-565-0000,-74.003102,40.741445,north-america
+Pittsburgh,"6425 Penn Avenue Pittsburgh, PA 15206 United States",+1 412-345-6700,-79.916596,40.45716,north-america
+Playa Vista,"12422 W. Bluff Creek Drive Playa Vista, CA 90094 United States",,-118.407244,33.97684,north-america
+Reston,"1875 Explorer Street  10th Floor Reston, VA 20190 United States",+1 202-370-5600,-77.359795,38.958309,north-america
+San Bruno,"901 Cherry Avenue San Bruno, CA 94066 United States",,-122.426491,37.62816,north-america
+San Diego,"6420 Sequence Dr  Suite 400 San Diego, CA 92121 United States",+1 858-239-4000,-117.181899,32.90961,north-america
+San Francisco,"345 Spear Street San Francisco, CA 94105 United States",+1 415-736-0000,-122.390013,37.789972,north-america
+Seattle,"601 N. 34th Street Seattle, WA 98103 United States",+1 206-876-1800,-122.350629,47.649316,north-america
+Sunnyvale,"803 11th Avenue Sunnyvale, CA 94089 United States",,-122.031583,37.403694,north-america
+Toronto,"111 Richmond Street West Toronto, ON M5H 2G4 Canada",416-915-8200,-79.383858,43.650477,north-america
+Washington DC,"25 Massachusetts Avenue Washington DC, 20001 United States",(202) 346-1100,-77.010286,38.898337,north-america
+Belo Horizonte,"Boulevard Corporate Tower Av. dos Andradas, 3000 - Andares 14-17 Santa Efigênia Belo Horizonte 30260-070, Brazil",+55-31-2128-6800,-43.920845,-19.920225,latin-america
+Bogota,"Carrera 11A 94 - 45 Centro Empresarial Oxo Center Bogota, Colombia",+57 (1) 5939400,-74.046901,4.678267,latin-america
+Buenos Aires,"Alicia M. De Justo 350, 2nd Floor Buenos Aires, C1107AAH Argentina",+54-11-5530-3000,-58.366992,-34.602734,latin-america
+Mexico City,"Google Mexico, S. de R.L. de C.V. Montes Urales 445 Lomas de Chapultepec Mexico City 11000, Mexico",+52 55-5342-8400,-99.2065518,19.4283793,latin-america
+Santiago,"Costanera Sur Rio 2730  Las Condes, Santiago Chile",,-70.605665,-33.413383,latin-america
+Sao Paulo,"Av. Brigadeiro Faria Lima, 3477  São Paulo 04538-133, Brazil",,-46.682078,-23.586479,latin-america
+Aarhus,Aabogade 15 8200 Aarhus Denmark,,10.187372,56.172249,europe
+Amsterdam,"Claude Debussylaan 34 1082 MD, Amsterdam Netherlands",,4.872066,52.337801,europe
+Athens,Fragkokklisias 7 Athens 151 25 Greece,,23.804595,38.03902,europe
+Berlin,Tucholskystraße 2 10117 Berlin Germany,+49 30 303986300,13.39203120000002,52.5231079,europe
+Brussels,Chaussee d'Etterbeek 180 1040 Brussels Belgium,,4.380984,50.839315,europe
+Copenhagen,Skt. Petri Passage 5 1165 Copenhagen Denmark,+45 3370 2600,12.570071,55.680452,europe
+Dublin,Gordon House Barrow St Dublin 4 Ireland,,-6.2360967,53.3399526,europe
+Hamburg,ABC-Strasse 19 20354 Hamburg Germany,49 40-80-81-79-000,9.986229,53.553752,europe
+Lisbon,"Avenida da Liberdade, 110 Lisbon, 1269-046, Portugal",+351 21 122 1803,-9.143781,38.718887,europe
+London - 6PS,6 Pancras Square London N1C 4AG United Kingdom,+44-20-7031-3000,-0.126026,51.533311,europe
+London - BEL,Belgrave House 76 Buckingham Palace Road London SW1W 9TQ United Kingdom,+44-20-7031-3001,-0.146652,51.494961,europe
+London - CSG,1-13 St Giles High St London WC2H 8AG United Kingdom,+44 (0)20-7031-3000,-0.12755,51.516027,europe
+Madrid,"Plaza Pablo Ruiz Picasso, I Madrid 28020 Spain",+34 91-748-6400,-3.6931161,40.4505331,europe
+Milan,"Porta Nuova Isola, Building C, Via Federico Confalonieri 4 20124 Milan Italy",,9.189546,45.486147,europe
+Moscow,7 Balchug St Moscow 115035 Russia,+7-495-644-1400,37.626435,55.746747,europe
+Munich,Erika-Mann-Str. 33 80636 Munich Germany,,11.54083333,48.14305556,europe
+Oslo,Aker Brygge Bryggegata 6 0250 Oslo Norway,,10.72598,59.90987,europe
+Paris,8 Rue de Londres 75009 Paris France,,2.33,48.8771,europe
+Prague,"Stroupeznickeho str. 3191/17 Prague, Czech Republic 150 00",,14.402642,50.070259,europe
+Stockholm,Kungsbron 2  111 22 Stockholm Sweden,,18.054619,59.333432,europe
+Vienna,Graben 19 1010 Wien Austria,,16.368419,48.209351,europe
+Warsaw,Emilii Plater 53 00-113 Warsaw Poland,+48 22 207 19 00,21.001668,52.233448,europe
+Wroclaw,Gen. Jozefa Bema nr 2 50-265 Wroclaw Poland,+48 (71) 73 41 000,17.041737,51.117687,europe
+Zurich,Brandschenkestrasse 110 8002 Zürich Switzerland,+41 44 668 18 00,8.524425,47.365063,europe
+Bangalore,"No. 3, RMZ Infinity - Tower E Old Madras Road 4th and 5th Floors Bangalore, 560 016, India",+91-80-67218000,77.660176,12.99332,asia-pacific
+Bangkok,"57 Park Ventures Ecoplex 14th Floor, Wireless Road Bangkok, 10330, Thailand",,100.547983,13.742866,asia-pacific
+Beijing,"6th Floor, Tower B, Raycom InfoTech Park  No. 2 Kexueyuan South Road  Zhongguancun Beijing 100190",+86-10-62503000,116.3265708,39.9848878,asia-pacific
+Guangzhou,"Taikoo Hui Tower 1, No.383 Tianhe Road Guangzhou, 510620 China",,113.3332488,23.1339728,asia-pacific
+Gurgaon,"Sector 15, Part II Village Silokhera Gurgaon 122001 India",+91-12-44512900,77.048194,28.460581,asia-pacific
+Hong Kong,"1 Matheson Street Causeway Bay, Hong Kong",+852-3923-5400,114.18176,22.278203,asia-pacific
+Hyderabad,"Survey No. 13, DivyaSree Omega Kondapur Village Hyderabad, Telangana 500084 India",+91-40-6619-3000,78.372452,17.458461,asia-pacific
+Jakarta,"Pacific Century Place Tower Level 45 SCBD Lot 10, Jl. Jend. Sudirman No.53, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190,  Indonesia",,106.808471,-6.227664,asia-pacific
+Kuala Lumpur,"Axiata Tower No. 9, Jalan Stesen Sentral 5 50470 Kuala Lumpur Malaysia",,101.684609,3.133445,asia-pacific
+Melbourne,"161 Collins Street, Melbourne VIC 3000, Australia",,144.968737,-37.815328,asia-pacific
+Mumbai,"3 North Avenue Maker Maxity, Bandra Kurla Complex Bandra East Mumbai, Maharashtra 400051 India",+91-22-6611-7150,72.850591,19.054364,asia-pacific
+Seoul,"Google Korea LLC. 22nd Floor, Gangnam Finance Center 152 Teheran-ro, Gangnam-gu Seoul 06236 South Korea",+82-2-531-9000,127.036843,37.500295,asia-pacific
+Shanghai,"100 Century Avenue, Pudong Shanghai 200120 China",+86-21-6133-7666,121.507662,31.23464,asia-pacific
+Singapore,"70 Pasir Panjang Road, #03-71,  Mapletree Business City  Singapore 117371",+65 6521-8000,103.798965,1.276466,asia-pacific
+Sydney,"48 Pirrama Road Sydney, NSW 2009 Australia",+61 2 9374 4000,151.195672,-33.866638,asia-pacific
+Taipei,"No. 7 XinYi Road Section 5, Taipei Taiwan",+886 2 8729 6000,121.564901,25.033447,asia-pacific
+Tokyo,"Roppongi Hills Mori Tower 6-10-1 Roppongi Minato-ku, Tokyo 106-6126 Japan",+81-3-6384-9000,139.729231,35.66047,asia-pacific
+Dubai,"TECOM Zone, Dubai Internet City Dubai, United Arab Emirates",+971 4 4509500,55.1591,25.0929,africa-middle-east
+Haifa,"Building 30 MATAM, Advanced Technology Center Haifa, 3190500 Israel",+972-74-746-6245,34.958432,32.78897,africa-middle-east
+Istanbul,"Eski Buyukdere Caddesi No: 209 34394 Istanbul, Turkey",,29.00859,41.081697,africa-middle-east
+Johannesburg,"35 Ballyclare Drive Building E Johannesburg 2191, South Africa",,28.032035,-26.0734457,africa-middle-east
+Tel Aviv,"Yigal Alon 98 Tel Aviv, 6789141 Israel",+972-74-746-6453,34.794087,32.070043,africa-middle-east
